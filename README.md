@@ -9,9 +9,9 @@
 <br>
 
 ## My skills
-<p align="center">
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,bash,bootstrap,cs,express,figma,git,github,gitlab,haskell,idea,linux,mysql,nodejs,notion,postman,py,react,sqlite,sequelize,ubuntu,visualstudio,vscode,)](https://skillicons.dev)
-</p>
+
 ## Let's Connect
 <p align="center">
 	<a href="https://www.instagram.com/elianadlorenzo/" target="blank"><img align="center"
