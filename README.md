@@ -37,7 +37,7 @@
   </a>
 </p>
 
-## 🙋‍♀️ Let's Connect
+## Let's Connect
 <p align="center">
 	<a href="https://www.instagram.com/elianadlorenzo/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
