@@ -1,5 +1,5 @@
 ## Sobre mí
-Estudiante de Ingeniería en Sistemas y Desarrollo de Software
+Estudiante de Ingeniería en Sistemas y Desarrollo de Software - UTN
 
 ## Skills
 [![Dev skills](https://skillicons.dev/icons?i=git,js,html,bash,bootstrap,cs,express,figma,github,gitlab,haskell,idea,linux,mysql,nodejs,notion,postman,py,react,sqlite,sequelize,ubuntu,visualstudio,vscode)](https://skillicons.dev)
