@@ -1,8 +1,5 @@
-
-<h1 align="center">¡Hola! Soy Eli</h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Estudiante+en+Ingeniería+en+Sistemas;Estudiante+en+Desarrollo+de+Software"></a>
-</p>
+## About Me
+Estudiante de Ingeniería en Sistemas y Desarrollo de Software<br>Amante del análisis de sistemas<br><br>
 
 ## My skills
 [![Dev skills](https://skillicons.dev/icons?i=git,js,html,bash,bootstrap,cs,express,figma,github,gitlab,haskell,idea,linux,mysql,nodejs,notion,postman,py,react,sqlite,sequelize,ubuntu,visualstudio,vscode)](https://skillicons.dev)
