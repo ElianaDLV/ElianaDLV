@@ -10,14 +10,12 @@
 
 ## My skills
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,js,html,bash,bootstrap,cs,express,figma,github,gitlab,haskell,idea,linux,mysql,nodejs,notion,postman,py,react,sqlite,sequelize,ubuntu,visualstudio,vscode" />
+  	<a href="https://skillicons.dev"><img align="center"src="https://skillicons.dev/icons?i=git,js,html,bash,bootstrap,cs,express,figma,github,gitlab,haskell,idea,linux,mysql,nodejs,notion,postman,py,react,sqlite,sequelize,ubuntu,visualstudio,vscode" />
   </a>
 </p>
 
 ## Let's Connect
 <p align="center">
-	<a href="https://www.instagram.com/elianadlorenzo/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+	<a href="https://www.instagram.com/elianadlorenzo/" target="blank"><img align="center"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="Viral Bhadeshiya" height="30" width="40" /></a>
 </p>
