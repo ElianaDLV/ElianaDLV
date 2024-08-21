@@ -1,7 +1,7 @@
-## About Me
+## Sobre mí
 Estudiante de Ingeniería en Sistemas y Desarrollo de Software<br>Amante del análisis de sistemas<br><br>
 
-## My skills
+## Skills
 [![Dev skills](https://skillicons.dev/icons?i=git,js,html,bash,bootstrap,cs,express,figma,github,gitlab,haskell,idea,linux,mysql,nodejs,notion,postman,py,react,sqlite,sequelize,ubuntu,visualstudio,vscode)](https://skillicons.dev)
 ### Desarrollo
 [![My Skills](https://skillicons.dev/icons?i=js,html,bootstrap,cs,express,nodejs,py,react)](https://skillicons.dev)
@@ -15,5 +15,5 @@ Estudiante de Ingeniería en Sistemas y Desarrollo de Software<br>Amante del an�
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ElianaDLV&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ElianaDLV&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## Let's Connect
+## Redes
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/eli.dilorenzo.52) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/elianadlorenzo)
