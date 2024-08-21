@@ -3,10 +3,6 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Estudiante+en+Ingeniería+en+Sistemas;Autodidacta;Estudiante+en+Desarrollo+de+Software;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
-[![](https://visitcount.itsvg.in/api?id=ElianaDLV&icon=9&color=1)](https://visitcount.itsvg.in)
-![snake gif](https://github.com/ElianaDLV/ElianaDLV/blob/output/github-contribution-grid-snake.gif)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 
 ## My skills
 [![My Skills](https://skillicons.dev/icons?i=git,js,html,bash,bootstrap,cs,express,figma,github,gitlab,haskell,idea,linux,mysql,nodejs,notion,postman,py,react,sqlite,sequelize,ubuntu,visualstudio,vscode)](https://skillicons.dev)
