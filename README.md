@@ -7,6 +7,7 @@
 <hr/>
 <h4 align="center">I am an enthusiastic person who loves to take up new challenges and learn new skills. I love exchanging ideas and spreading knowledge and positivity.</h4>
 </br>
+</br>
 
 ## My skills
 <p align="left">
