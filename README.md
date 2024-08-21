@@ -1,7 +1,7 @@
 
-<h1 align="center">Hey there! I'm Eliana Di Lorenzo</h1>
+<h1 align="center">Hola! Soy Eli</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=System+Engineer+Student;Self+Taught+Developer;Software+Development+Student;Enthusiast;;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Estudiante+en+Ingeniería+en+Sistemas;Autodidacta;Estudiante+en+Desarrollo+de+Software;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
 <hr/>
@@ -9,17 +9,7 @@
 <br>
 
 ## My skills
-<p align="left">
-  	<a href="https://skillicons.dev">
-		<img align="center"src="https://skillicons.dev/icons?i=git,js,html,bash,bootstrap,cs,express,figma,github,gitlab,haskell,idea,linux,mysql,nodejs,notion,postman,py,react,sqlite,sequelize,ubuntu,visualstudio,vscode" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=git,js,html,bash,bootstrap,cs,express,figma,github,gitlab,haskell,idea,linux,mysql,nodejs,notion,postman,py,react,sqlite,sequelize,ubuntu,visualstudio,vscode)](https://skillicons.dev)
 
 ## Let's Connect
-<p align="left">
-	<a href="https://www.instagram.com/elianadlorenzo/" target="blank">
-		<img align="center"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="Eliana Di Lorenzo" height="30" width="40" /></a>
-</p>
-
-
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/eli.dilorenzo.52) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/elianadlorenzo)
