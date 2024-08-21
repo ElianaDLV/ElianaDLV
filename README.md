@@ -1,5 +1,5 @@
 ## Sobre mí
-Estudiante de Ingeniería en Sistemas y Desarrollo de Software<br>Amante del análisis de sistemas<br><br>
+Estudiante de Ingeniería en Sistemas y Desarrollo de Software
 
 ## Skills
 [![Dev skills](https://skillicons.dev/icons?i=git,js,html,bash,bootstrap,cs,express,figma,github,gitlab,haskell,idea,linux,mysql,nodejs,notion,postman,py,react,sqlite,sequelize,ubuntu,visualstudio,vscode)](https://skillicons.dev)
