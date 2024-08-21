@@ -9,8 +9,11 @@
 <br>
 
 ## My skills
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,bash,bootstrap,cs,express,figma,git,github,gitlab,haskell,idea,linux,mysql,nodejs,notion,postman,py,react,sqlite,sequelize,ubuntu,visualstudio,vscode,)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,bash,bootstrap,cs,express,figma,git,github,gitlab,haskell,idea,linux,mysql,nodejs,notion,postman,py,react,sqlite,sequelize,ubuntu,visualstudio,vscode" />
+  </a>
+</p>
 
 ## Let's Connect
 <p align="center">
