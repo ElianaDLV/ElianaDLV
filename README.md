@@ -1,7 +1,7 @@
 
 <h1 align="center">¡Hola! Soy Eli</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Estudiante+en+Ingeniería+en+Sistemas;Autodidacta;Estudiante+en+Desarrollo+de+Software"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Estudiante+en+Ingeniería+en+Sistemas;Estudiante+en+Desarrollo+de+Software"></a>
 </p>
 
 ## My skills
