@@ -7,8 +7,6 @@
 <hr/>
 <h4 align="center"I am an enthusiastic person who loves to take up new challenges and learn new skills. I love exchanging ideas and spreading knowledge and positivity.</h4>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=candida18&label=Profile%20views&color=0e75b6&style=plastic" alt="candida18" /> </p>
-
 
 ## My skills
 <p align="left">
